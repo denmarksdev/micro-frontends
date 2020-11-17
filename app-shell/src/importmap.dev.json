@@ -1,0 +1,13 @@
+{
+    "imports": {
+        "@ficc/root-config": "//localhost:9000/ficc-root-config.js",
+        "@ficc/app-customer": "http://localhost:8500/ficc-app-customer.js",
+        "@ficc/app-routes": "http://localhost:8700/ficc-app-routes.js",
+        "@ficc/app-parcel": "http://localhost:8800/ficc-app-parcel.js",
+        "@ficc/app-route": "http://localhost:8900/ficc-app-route.js",
+        "@ficc/util": "http://localhost:8100/ficc-util.js",
+        "@ficc/app-lazy": "http://localhost:8200/ficc-app-lazy.js",
+        "@ficc/app-navbar": "http://localhost:8300/ficc-app-navbar.js"
+      }
+}
+
