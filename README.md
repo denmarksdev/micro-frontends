@@ -1,5 +1,13 @@
 # Micro-frontends
 
+## Motivação
+
+Implementação micro-frontends utilizando Single SPA, utilizando as técnicas:
+
+- Roteamento e Transição de páginas
+- Composição
+- Comunicação
+
 ## Excutando o projeto
 
  #### 1. `Aplicar npm i` em todos os projetos
