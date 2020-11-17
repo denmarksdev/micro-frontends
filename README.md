@@ -2,7 +2,7 @@
 
 ## Motivação
 
-Implementação micro-frontends utilizando Single SPA, utilizando as técnicas:
+Implementação micro-frontends utilizando Single SPA, e aplicação das técnicas:
 
 - Roteamento e Transição de páginas
 - Composição
