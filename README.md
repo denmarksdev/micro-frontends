@@ -20,4 +20,4 @@ Implementação micro-frontends utilizando Single SPA, e aplicação das técnic
  - app-shell
  - app-util
   
-  #### 2. Executar o `cmd/start.bat` para inicialização da aplicação shell e os micros-frontends que a compoem
+  #### 2. Entrar na pasta `cd cmd/` e e exutar o `start.bat` para inicialização da aplicação shell e os micros-frontends que a compoem
